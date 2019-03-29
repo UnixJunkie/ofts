@@ -1,5 +1,5 @@
-# ocase
-OCaml search engine using types
+# OFTS
+OCaml Fuzzy Type Search
 
 Ultimate goal: Hoogle for OCaml, able to mine all your opam-installed packages, from the command-line.
 
